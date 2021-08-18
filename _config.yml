@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Enrico Bertini Dossier
+show_downloads: false
 description: 
 github:
 is_project_page: false
