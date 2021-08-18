@@ -1,3 +1,5 @@
+![Enrico Profile Picture](image001.jpg)
+
 [Curriculum Vitae](Bertini_Enrico_CV.pdf)
 
 [Research Statement](Bertini_Research_Statement.pdf)
