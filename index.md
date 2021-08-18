@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+[Curriculum Vitae](Bertini_Enrico_CV.pdf)
 
-You can use the [editor on GitHub](https://github.com/EnricoBertini/enricobertini.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[Research Statement](Bertini_Research_Statement.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Teaching Statement](Bertini_Teaching_Statement.pdf)
 
-### Markdown
+[Service Statement](Bertini_Service_Statement.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Diversity Statement](Bertini_Diversity_Statement.pdf)
 
-```markdown
-Syntax highlighted code block
+## Bio
+Enrico Bertini works on data visualization interfaces as a way to help people make sense of the world through data. In recent years, his work focused on the use of visual interfaces to explore, validate and understand machine learning models and systems. His research also aims at advancing the theoretical and empirical understanding of how people extract information and meaning from visual representations. He is the co-host of the popular Data Stories podcast, a podcast on “the role data play in our lives”.
 
-# Header 1
-## Header 2
-### Header 3
+He earned a PhD degree in Computer Engineering from University of Rome La Sapienza, in his hometown in Rome in 2006. Between 2006-2012 he has been a research scientist at the University of Fribourg, Switzerland and at the University of Konstanz, Germany. In 2012 he joined the NYU School of Engineering as and Assistant Professor where he has been  promoted to the rank of Associate Professor in 2018. He will join Northeastern in January 2022 with an appointment between the Khoury College of Computer Sciences and the College of Arts, Media and Design.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EnricoBertini/enricobertini.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Publications
+*[RuleMatrix: Visualizing and Understanding Classifiers with Rules](https://arxiv.org/pdf/1807.06228.pdf). Yao Ming, Huamin Qu, Enrico Bertini. IEEE Transactions on Visualization and Computer Graphics (Proc. of VAST), 2018.
+*[A Workflow for Visual Diagnostics of Binary Classifiers using Instance-Level Explanations](https://static1.squarespace.com/static/5502f56fe4b0aa4bfbdae0a8/t/599a5463e6f2e19ff0448aa1/1503286375213/vast17-visual-debugging.pdf). Josua Krause, Aritra Dasgupta, Jordan Swartz, Yindalon Aphinyanaphongs, Enrico Bertini. Proc. of IEEE Conference and Visual Analytics Science and Technology (VAST), 2017.
+*[Quality Metrics in High-Dimensional Data Visualization: An Overview and Systematization](https://static1.squarespace.com/static/5502f56fe4b0aa4bfbdae0a8/t/60fbd0d7f96f69368a0ef75e/1627115741371/quality-metrics-vis2011.pdf). E. Bertini, A. Tatu, and D. Keim. IEEE Transaction on Visualization and Computer Graphics (Proc. of InfoVis), 2011.
+*[The Persuasive Power of Data Visualization](https://static1.squarespace.com/static/5502f56fe4b0aa4bfbdae0a8/t/5da3d77afe2f655194b13312/1571018619600/persuasion-tvcg2014.pdf). A. V. Pandey, O. Nov, A. Manivannan, M. Satterthwaite, and E. Bertini. IEEE Transactions on Visualization and Computer Graphics (Proc. of InfoVis), 2014.
+*[How Deceptive are Deceptive Visualizations?: An Empirical Analysis of Common Distortion Techniques](https://static1.squarespace.com/static/5502f56fe4b0aa4bfbdae0a8/t/5da3d7f5f30aa07809682abd/1571018743421/deceptive-chi2015.pdf). A. V. Pandey, K. Rall, M. Satterthwaite, O. Nov, E. Bertini. Proc. of ACM CHI Conference on Human Factors in Computing Systems (CHI), 2015.
