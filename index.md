@@ -11,7 +11,7 @@
 [Diversity Statement](Bertini_Diversity_Statement.pdf)
 
 ## Bio
-Enrico Bertini works on data visualization interfaces as a way to help people make sense of the world through data. In recent years, his work focused on the use of visual interfaces to explore, validate and understand machine learning models and systems. His research also aims at advancing the theoretical and empirical understanding of how people extract information and meaning from visual representations. He is the co-host of the popular Data Stories podcast, a podcast on “the role data play in our lives”.
+Enrico Bertini works on data visualization interfaces as a way to help people make sense of the world through data. In recent years, his work focused on the use of visual interfaces to explore, validate and understand machine learning models and systems. His research also aims at advancing the theoretical and empirical understanding of how people extract information and meaning from visual representations of data. He is the co-host of the popular Data Stories podcast, a podcast on “the role data play in our lives”.
 
 He earned a PhD degree in Computer Engineering from University of Rome La Sapienza, in his hometown in Rome in 2006. Between 2006-2012 he has been a research scientist at the University of Fribourg, Switzerland and at the University of Konstanz, Germany. In 2012 he joined the NYU School of Engineering as and Assistant Professor where he has been  promoted to the rank of Associate Professor in 2018. He will join Northeastern in January 2022 with an appointment between the Khoury College of Computer Sciences and the College of Arts, Media and Design.
 
